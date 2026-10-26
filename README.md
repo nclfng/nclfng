@@ -4,13 +4,14 @@
 
 ## About
 
-I am a student at UC San Diego, class of 2029, double majoring in Artificial Intelligence and Cognitive Behavioral Neuroscience. Right now I work as an AI/ML intern at ChakraTech, a biotech AI startup, where I build machine learning models for polymer informatics and sustainable materials discovery. I like thinking about the parallels between how the brain is wired and how we design AI models, and both majors feed that. Outside of internships I build projects fast, usually under a deadline, and I hold three leadership roles on campus. I care more about shipping something that works than talking about what I plan to build.
+Student at UC San Diego studying Artificial Intelligence and Cognitive Behavioral Neuroscience. Previously at ChakraTech as an AI/ML Intern working on predictive modeling for material science.
+
+Enjoys mentoring, has multiple leadership roles on campus, 2x hackathon winner.
 
 ## Current Work
 
-- ChakraTech: AI/ML intern building models for polymer informatics and sustainable materials discovery.
-- Break Through Tech AI/ML Fellow at Cornell Tech, starting Fall 2026.
-- Co-President of Triton Engineering Student Council, AI Events Director at ACM AI at UCSD.
+- ChakraTech: AI/ML intern doing predictive modeling for materials science.
+- Co-President @ Triton Engineering Student Council (TESC), AI Events Director @ Association for Computing Machinery (ACM) AI, VP Events @ EIEC.
 
 ## Selected Projects
 
